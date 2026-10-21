@@ -1,0 +1,1 @@
+SS OIL logo eklendi. SQL ayarlari sag ust menuye tasindi. Manuel urun ekle ve Excelden guncelle ana ekrandan kaldirildi. Excel aktar ve Temizle sabit alt bara tasindi. Stok/satis ve Excel islemlerinin metotlari korunmustur. APK derlemesi yapilmamistir.

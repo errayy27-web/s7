@@ -1,0 +1,1 @@
+Popis/Cadmus butonlari, erisilebilirlik servisi, Android bridge ve izinleri kaldirildi. SQL, barkod, sayim, siparis ve Excel kodlari korunmustur. Bu kaynak paketinde APK derlemesi yapilmamistir.
